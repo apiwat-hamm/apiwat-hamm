@@ -1,6 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Apiwat Hamm</h1>
-<h3 align="center">A cybersecurity student passionate about building hands-on security labs and gaining practical experience in Windows administration, Active Directory, networking, and digital forensics.</h3>
+<h1 align="left">Hi 👋, I'm Apiwat</h1>
+
+<img width="6912" height="3456" alt="b04e139d-d970-461a-a4ad-630a4cbb20c0" src="https://github.com/user-attachments/assets/c742ef6c-b9fa-479b-b94b-5e0f985de303" />
+
+-----
+
+I'm a cybersecurity student passionate about building hands-on security labs and gaining practical experience in Windows administration, Active Directory, networking, and digital forensics.
 
 
 
