@@ -15,7 +15,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🖥️ I’m currently learning **Ethical Hacking** and **Forensic Computer Related Crime Investigation**
 
 ---
 
